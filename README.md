@@ -239,4 +239,4 @@ This repository serves as the official landing page for RoboForm. The software i
 **Get the most recent version of RoboForm today!**
 
 ---
-**Last updated:** 2026-10-24 22:03:05 UTC
+**Last updated:** 2026-10-25 00:38:02 UTC
